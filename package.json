@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-custom-build",
   "version": "0.1.0",
-  "description": "Enter a description here",
+  "description": "Custom Build Persona Theme",
   "main": "theme.less",
   "keywords": [],
   "license": "MIT",
