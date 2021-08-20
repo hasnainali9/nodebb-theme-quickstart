@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-custom-build",
+    "name": "Custom-build Theme",
+    "description": "Custom Persona Theme",
+    "url": "https://github.com/hasnainali9/nodebb-theme-quickstart"
 }
